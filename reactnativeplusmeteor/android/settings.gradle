@@ -1,0 +1,3 @@
+rootProject.name = 'reactnativeplusmeteor'
+
+include ':app'
